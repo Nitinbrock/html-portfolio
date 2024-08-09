@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<body>
+    <h1>My Portfolio</h1>
+    <h2>Previous Project</h2>
+    <p>Description of the previous project.</p>
+    <a href="index.html">View Previous Project</a>
+    <h2>New Project</h2>
+    <p>Description of the new project.</p>
+    <a href="Resume.html">View New Project</a>
+</body>
+</html>
